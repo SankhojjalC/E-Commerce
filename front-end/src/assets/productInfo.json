@@ -1,0 +1,160 @@
+{
+  "books": [
+    {
+      "name": "Elon Musk",
+      "author": "Ashlee Vance",
+      "price": "490",
+      "rating": "4",
+      "description": "Elon Reeve Musk FRS (born June 28, 1971) is an engineer, industrial designer, technology entrepreneur and philanthropist. He is a citizen of South Africa, Canada, and the United States. He is the founder, CEO and chief engineer/designer of SpaceX; early investor, CEO and product architect of Tesla, Inc.; founder of The Boring Company; co-founder of Neuralink; and co-founder and initial co-chairman of OpenAI. He was elected a Fellow of the Royal Society (FRS) in 2018.In December 2016, he was ranked 21st on the Forbes list of The World's Most Powerful People, and was ranked joint-first on the Forbes list of the Most Innovative Leaders of 2019. As of July 10, 2020 his net worth was estimated at $57.8 billion and he is listed by Forbes as the 16th-richest person in the world. He is the longest tenured CEO of any automotive manufacturer globally.",
+      "url": "https://m.media-amazon.com/images/I/51e-uVPtr5L._SL500_.jpg"
+    },
+    {
+      "name": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "price": "599",
+      "rating": "5",
+      "description": "Steven Paul Jobs (February 24, 1955 – October 5, 2011) was an American business magnate, industrial designer, investor, and media proprietor. He was the chairman, chief executive officer (CEO), and co-founder of Apple Inc., the chairman and majority shareholder of Pixar, a member of The Walt Disney Company's board of directors following its acquisition of Pixar, and the founder, chairman, and CEO of NeXT. Jobs is widely recognized as a pioneer of the personal computer revolution of the 1970s and 1980s, along with Apple co-founder Steve Wozniak.",
+      "url": "https://images-na.ssl-images-amazon.com/images/I/41dKkez-1rL._SX326_BO1,204,203,200_.jpg"
+    },
+    {
+      "name": "Einstein: His Life and Universe",
+      "author": "Walter Isaacson",
+      "price": "400",
+      "rating": "4",
+      "description": "Albert Einstein (14 March 1879 – 18 April 1955) was a German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics (alongside quantum mechanics).His work is also known for its influence on the philosophy of science. He is best known to the general public for his mass–energy equivalence formula E = mc2, which has been dubbed 'the world's most famous equation'. He received the 1921 Nobel Prize in Physics 'for his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect',a pivotal step in the development of quantum theory.",
+      "url": "https://images-na.ssl-images-amazon.com/images/I/51M5QdLf+9L._SX330_BO1,204,203,200_.jpg"
+    },
+    {
+      "name": "The Theory of Everything",
+      "author": "Stephen Hawking",
+      "price": "199",
+      "rating": "3",
+      "description": "Stephen William Hawking CH CBE FRS FRSA (8 January 1942 – 14 March 2018) was an English theoretical physicist, cosmologist, and author who was director of research at the Centre for Theoretical Cosmology at the University of Cambridge at the time of his death.He was the Lucasian Professor of Mathematics at the University of Cambridge between 1979 and 2009.",
+      "url": "https://www.amazon.in/images/I/51oHUvYzbsL._SX327_BO1,204,203,200_.jpg"
+    },
+    {
+      "name": "The Complete Novels of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "price": "250",
+      "rating": "4",
+      "description": "Sherlock Holmes is a fictional private detective created by British author Sir Arthur Conan Doyle. Referring to himself as a 'consulting detective' in the stories, Holmes is known for his proficiency with observation, deduction, forensic science, and logical reasoning that borders on the fantastic, which he employs when investigating cases for a wide variety of clients, including Scotland Yard.",
+      "url": "https://www.amazon.in/images/I/51OcMlOGq-L._SX319_BO1,204,203,200_.jpg"
+    }
+  ],
+  "dress": [
+    {
+      "name": "StyleStone Women's Chiffon Tie up Rainbow Print Maxi Dress",
+      "price": "850",
+      "rating": "3",
+      "description": "StyleStone women's tie up rainbow print maxi dress (3453StringRainbowsXL).",
+      "url": "https://www.amazon.in/images/I/61LLaoqUwFL._UL1440_.jpg",
+      "gender": "Female"
+    },
+    {
+      "name": "Market Magic Wolrd Women's Printed Lycra Silk Blend Saree With Blouse Pices",
+      "price": "699",
+      "rating": "4",
+      "description": "The saree is an outfit which women can carry off with great panache. With the right material and drape, it can accentuate the beauty of women of all ages and forms. Be it a festival or a wedding, sarees are a hot favourite worldwide, and it’s easy to see why. Sarees give you the opportunity to give a modern touch to a traditional Indian attire. Lycra is popular for its good drape, elasticity and characteristic lustrous surface. It has a complex weave that makes for versatile fabrics that can be used in evening wear, sports wear, shirts, etc. You can choose your accessories according to the occasion. This saree can be paired with stilettos or peep toes, and jewelry to further enhance the look of the saree. Jewellery to wear with saree can range from one statement piece, to a full feast of small earrings, necklace, nose ring, and bangles.",
+      "url": "https://www.amazon.in/images/I/81wCS9fycmL._UL1500_.jpg",
+      "gender": "Female"
+    },
+    {
+      "name": "ANNI DESIGNER Women's Crepe Printed Salwer Suit (rudra Colors_Free Size)",
+      "price": "300",
+      "rating": "3",
+      "description": "ANNI DESIGNER Women's Crepe Printed Salwer Suit (rudra Colors _Free Size)",
+      "url": "https://www.amazon.in/images/I/81YyhmgAU5L._UL1500_.jpg",
+      "gender": "Female"
+    },
+    {
+      "name": "Allen Solly Men's Polo",
+      "price": "799",
+      "rating": "4",
+      "description": "Allen Solly Men's Polo",
+      "url": "https://www.amazon.in/images/I/81Yqx-u2z4L._UL1500_.jpg",
+      "gender": "Male"
+    },
+    {
+      "name": "Wearo Men's Slim Fit Jeans",
+      "price": "555",
+      "rating": "3",
+      "description": "Blue Jeans",
+      "url": "https://www.amazon.in/images/I/61g2esW2fsL._UL1280_.jpg",
+      "gender": "Male"
+    }
+  ],
+  "mobiles": [
+    {
+      "name": "OnePlus 8 5G (Glacial Green 6GB RAM+128GB Storage)",
+      "price": "41,999",
+      "rating": "4",
+      "description": "48MP rear camera with 4k video at 30/60 fps, 1080p video at 30/60 fps, super slow motion: 720p video at 480 fps, 1080p video at 240fps, time-lapse: 1080p 30fps, 4k 30fps, cine aspect ratio video recording, ultrashot hdr, nightscape, micro, portrait, pro mode, panorama, cat&dog face detection&focus, ai scene detection, raw image | 16MP front facing camera",
+      "url": "https://www.amazon.in/images/I/619iTNHSCGL._SL1500_.jpg"
+    },
+    {
+      "name": "Samsung Galaxy M31 (Space Black, 6GB RAM, 128GB Storage)",
+      "price": "17,499",
+      "rating": "4",
+      "description": "Quad Camera Setup - 64MP (F1.8) Main Camera +8MP (F2.2) Ultra Wide Camera +5MP(F2.2) Depth Camera +5MP(F2.4) Macro Camera and 32MP (F2.0) front facing Camera",
+      "url": "https://www.amazon.in/images/I/71OxJeyywSL._SL1500_.jpg"
+    },
+    {
+      "name": "Redmi Note 9 Pro (Interstellar Black, 4GB RAM, 64GB Storage)",
+      "price": "13,999",
+      "rating": "3",
+      "description": "48MP rear camera with ultra-wide, super macro, portrait, night mode, 960fps slowmotion, AI scene recognition, pro color, HDR, pro mode | 16MP facing camera",
+      "url": "https://www.amazon.in/images/I/81-gD8hlE8L._SL1500_.jpg"
+    },
+    {
+      "name": "realme X (Space Blue, 4GB RAM, 128GB Storage)",
+      "price": "17,998",
+      "rating": "2",
+      "description": "48+5MP dual rear camera with bokeh mode, slow-mo video, chroma boost | 16MP front camera",
+      "url": "https://www.amazon.in/images/I/81hcorK3VuL._SL1500_.jpg"
+    },
+    {
+      "name": "Nokia 7.2 (Charcoal, 64 GB) (6 GB RAM)",
+      "price": "17,842",
+      "rating": "3",
+      "description": "6 GB RAM | 64 GB ROM | Expandable Upto 512 GB | 48MP + 5MP + 8MP | 20MP Front Camera Product",
+      "url": "https://www.amazon.in/images/I/3195TZH1-nL.jpg"
+    }
+  ],
+  "laptops": [
+    {
+      "name": "HP 15 di0000TX 15.6-inch Laptop (8th Gen Core i3-8130U/4GB/1TB HDD/Win 10/MS Office 2019/2 GB NVIDIA GeForce MX130 Graphics), Jet Black",
+      "price": "50,000",
+      "rating": "4",
+      "description": "This stylishly designed HP 15 inch laptop has a battery that keeps you connected, entertained, and productive all day. Speed through tasks, or sit back and socialize – with an Intel processor and a rich display. Do it all, all day.",
+      "url": "https://www.amazon.in/images/I/71c8j9uZBsL._SL1500_.jpg"
+    },
+    {
+      "name": "Dell Inspiron 3593 15.6-inch FHD Laptop (10th Gen Core i3-1005G1/8GB/1TB HDD/Windows 10 Home + MS Office/Intel HD Graphics), Platinum Silver",
+      "price": "45,000",
+      "rating": "3",
+      "description": "Dell Inspiron 3593 15.6 inch FHD Laptop (10th Gen, Core 1005G1, 8GB DDR4, 1TB SATA HDD, Windows 10 + MSO, Intel HD Graphics, Silver). Memory and storage galore: Easily switch back and forth between open applications with up to 8GB of memory. An HDD with 1TB of storage helps you keep on top of your files.",
+      "url": "https://www.amazon.in/images/I/61E39y2lzUL._SL1000_.jpg"
+    },
+    {
+      "name": "Lenovo V14 Intel Core i5 10th Gen 14-inch HD Thin and Light Laptop (4GB RAM/ 1TB HDD/ DOS/ Grey/ 1.6 kg), 82C40104IH",
+      "price": "47,499",
+      "rating": "4",
+      "description": "Whether you’re running a spreadsheet, teleconferencing, managing files, or tackling other jobs, the 14' Lenovo V14 laptop will handle your needs efficiently. Designed to keep you productive and your data secure, it’s a dependable everyday business partner. And its slimmer, smaller design—with narrower bezels—gives your business a sleek, professional face.Its integrated firmware—Trusted Platform Module (TPM) 2.0—keeps your work secure by encrypting data and passwords.The contemporary design of this sleek, Iron Gray laptop gives it a premium look and feel—especially the optional in-mold rolling (IMR) cover with textured lines—and its slim body travels well when you’re not in the office. We tested this laptop for reliability and durability against eight extreme conditions: shock test; vibration test, keyboard in-system test, hinge life test, fan reliability test, panel scuff test, operating temperature test, and pressure test. It’s ready for whatever conditions your business can put it through.",
+      "url": "https://www.amazon.in/images/I/61hBae2v0DL._SL1000_.jpg"
+    },
+    {
+      "name": "HP 15s du0120tu 15.6-inch Laptop (8th Gen i3-8145U/4GB/1TB HDD/Windows 10 Home/Microsoft Office 2019/Integrated Graphics), Natural Silver",
+      "price": "52800",
+      "rating": "2",
+      "description": "Stay connected to what matters most with long-lasting battery life and a sleek and portable, micro-edge bezel design. Built to keep you productive and entertained from anywhere, the HP 15 inch laptop features reliable performance and an expansive display - letting you stream, surf and speed through tasks from sun up to sun down.",
+      "url": "https://www.amazon.in/images/I/71BFWj3oHoL._SL1500_.jpg"
+    },
+    {
+      "name": "Apple MacBook Pro (16-inch, 16GB RAM, 1TB Storage, 2.3GHz 9th Gen Intel Core i9) - Silver",
+      "price": "2,39,900",
+      "rating": "5",
+      "description": "Ninth-generation 8-core Intel Core i9 processor | Stunning 16-inch Retina display with True Tone technology | Touch Bar and Touch ID | Six-speaker system with force-cancelling woofers",
+      "url": "https://www.amazon.in/images/I/71y%2BlIHVdAL._SL1500_.jpg"
+    }
+  ]
+}
