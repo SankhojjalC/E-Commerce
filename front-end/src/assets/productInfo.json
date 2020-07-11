@@ -1,6 +1,7 @@
 {
   "books": [
     {
+      "id" : "b1",
       "name": "Elon Musk",
       "author": "Ashlee Vance",
       "price": "490",
@@ -9,6 +10,7 @@
       "url": "https://m.media-amazon.com/images/I/51e-uVPtr5L._SL500_.jpg"
     },
     {
+      "id" : "b2",
       "name": "Steve Jobs",
       "author": "Walter Isaacson",
       "price": "599",
@@ -17,6 +19,7 @@
       "url": "https://images-na.ssl-images-amazon.com/images/I/41dKkez-1rL._SX326_BO1,204,203,200_.jpg"
     },
     {
+      "id" : "b3",
       "name": "Einstein: His Life and Universe",
       "author": "Walter Isaacson",
       "price": "400",
@@ -25,6 +28,7 @@
       "url": "https://images-na.ssl-images-amazon.com/images/I/51M5QdLf+9L._SX330_BO1,204,203,200_.jpg"
     },
     {
+      "id" : "b4",
       "name": "The Theory of Everything",
       "author": "Stephen Hawking",
       "price": "199",
@@ -33,6 +37,7 @@
       "url": "https://www.amazon.in/images/I/51oHUvYzbsL._SX327_BO1,204,203,200_.jpg"
     },
     {
+      "id" : "b5",
       "name": "The Complete Novels of Sherlock Holmes",
       "author": "Arthur Conan Doyle",
       "price": "250",
@@ -43,6 +48,7 @@
   ],
   "dress": [
     {
+      "id" : "d1",
       "name": "StyleStone Women's Chiffon Tie up Rainbow Print Maxi Dress",
       "price": "850",
       "rating": "3",
@@ -51,6 +57,7 @@
       "gender": "Female"
     },
     {
+      "id" : "d2",
       "name": "Market Magic Wolrd Women's Printed Lycra Silk Blend Saree With Blouse Pices",
       "price": "699",
       "rating": "4",
@@ -59,6 +66,7 @@
       "gender": "Female"
     },
     {
+      "id" : "d3",
       "name": "ANNI DESIGNER Women's Crepe Printed Salwer Suit (rudra Colors_Free Size)",
       "price": "300",
       "rating": "3",
@@ -67,6 +75,7 @@
       "gender": "Female"
     },
     {
+      "id" : "d4",
       "name": "Allen Solly Men's Polo",
       "price": "799",
       "rating": "4",
@@ -75,6 +84,7 @@
       "gender": "Male"
     },
     {
+      "id" : "d5",
       "name": "Wearo Men's Slim Fit Jeans",
       "price": "555",
       "rating": "3",
@@ -85,6 +95,7 @@
   ],
   "mobiles": [
     {
+      "id" : "m1",
       "name": "OnePlus 8 5G (Glacial Green 6GB RAM+128GB Storage)",
       "price": "41,999",
       "rating": "4",
@@ -92,6 +103,7 @@
       "url": "https://www.amazon.in/images/I/619iTNHSCGL._SL1500_.jpg"
     },
     {
+      "id" : "m2",
       "name": "Samsung Galaxy M31 (Space Black, 6GB RAM, 128GB Storage)",
       "price": "17,499",
       "rating": "4",
@@ -99,6 +111,7 @@
       "url": "https://www.amazon.in/images/I/71OxJeyywSL._SL1500_.jpg"
     },
     {
+      "id" : "m3",
       "name": "Redmi Note 9 Pro (Interstellar Black, 4GB RAM, 64GB Storage)",
       "price": "13,999",
       "rating": "3",
@@ -106,6 +119,7 @@
       "url": "https://www.amazon.in/images/I/81-gD8hlE8L._SL1500_.jpg"
     },
     {
+      "id" : "m4",
       "name": "realme X (Space Blue, 4GB RAM, 128GB Storage)",
       "price": "17,998",
       "rating": "2",
@@ -113,6 +127,7 @@
       "url": "https://www.amazon.in/images/I/81hcorK3VuL._SL1500_.jpg"
     },
     {
+      "id" : "m5",
       "name": "Nokia 7.2 (Charcoal, 64 GB) (6 GB RAM)",
       "price": "17,842",
       "rating": "3",
@@ -122,6 +137,7 @@
   ],
   "laptops": [
     {
+      "id" : "l1",
       "name": "HP 15 di0000TX 15.6-inch Laptop (8th Gen Core i3-8130U/4GB/1TB HDD/Win 10/MS Office 2019/2 GB NVIDIA GeForce MX130 Graphics), Jet Black",
       "price": "50,000",
       "rating": "4",
@@ -129,6 +145,7 @@
       "url": "https://www.amazon.in/images/I/71c8j9uZBsL._SL1500_.jpg"
     },
     {
+      "id" : "l2",
       "name": "Dell Inspiron 3593 15.6-inch FHD Laptop (10th Gen Core i3-1005G1/8GB/1TB HDD/Windows 10 Home + MS Office/Intel HD Graphics), Platinum Silver",
       "price": "45,000",
       "rating": "3",
@@ -136,6 +153,7 @@
       "url": "https://www.amazon.in/images/I/61E39y2lzUL._SL1000_.jpg"
     },
     {
+      "id" : "l3",
       "name": "Lenovo V14 Intel Core i5 10th Gen 14-inch HD Thin and Light Laptop (4GB RAM/ 1TB HDD/ DOS/ Grey/ 1.6 kg), 82C40104IH",
       "price": "47,499",
       "rating": "4",
@@ -143,6 +161,7 @@
       "url": "https://www.amazon.in/images/I/61hBae2v0DL._SL1000_.jpg"
     },
     {
+      "id" : "l4",
       "name": "HP 15s du0120tu 15.6-inch Laptop (8th Gen i3-8145U/4GB/1TB HDD/Windows 10 Home/Microsoft Office 2019/Integrated Graphics), Natural Silver",
       "price": "52800",
       "rating": "2",
@@ -150,6 +169,7 @@
       "url": "https://www.amazon.in/images/I/71BFWj3oHoL._SL1500_.jpg"
     },
     {
+      "id" : "l5",
       "name": "Apple MacBook Pro (16-inch, 16GB RAM, 1TB Storage, 2.3GHz 9th Gen Intel Core i9) - Silver",
       "price": "2,39,900",
       "rating": "5",
